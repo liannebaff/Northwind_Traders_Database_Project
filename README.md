@@ -119,5 +119,5 @@ ON Orders.CustomerID=Customers.CustomerID INNER JOIN Employees ON Orders.Employe
   - Joins, filtering, aggregate functions and aliasing.
 
 - [`Northwind_Mixed_Queries.sql`](sql_queries/Northwind_Mixed_Queries.sql)  
-  - Mixed practice tasks using the Northwind database: joins, aggregate functions, filtering, grouping sorting and aliasing.
+  - Mixed practice queries using the Northwind database: joins, aggregate functions, filtering, grouping sorting and aliasing.
  
